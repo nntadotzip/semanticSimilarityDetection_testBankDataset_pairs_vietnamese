@@ -1,0 +1,2 @@
+# semanticSimilarityDetection_testBankDataset_pairs_vietnamese
+Dataset for Data Augmentation Methods for Semantic Similarity Detection in Vietnamese Questionnaire 
